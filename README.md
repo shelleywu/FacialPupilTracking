@@ -2,9 +2,9 @@
 
 Hello, this is a starter project for myself to be familiar with computer vision. 
 
-This means that this README is written with only my future self in thought and instructions and descriptions are short. 
+This means that this README is written with only my future self in thought and instructions and descriptions are casually written to communicate with my future self. 
 
-For anyone reading this, you may use this for inspiration. 
+For anyone reading this, you may use this for inspiration. And, good luck...
 
 ## Getting Started
 
